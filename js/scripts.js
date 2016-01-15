@@ -35,3 +35,5 @@ $(document).ready(function() {
   });
 
 });
+
+/* Neato! I like that you used ++ to increment the value of each variable to calculate result. Syntax on everything looks good too. .text might be a good alternative to alert, since alerts are kind of alarming.*/
